@@ -1,11 +1,13 @@
-# Chrome Theme: Interstellar Blue
+# Chrome Theme: Obsidian Glow
+
+A sleek and modern theme with deep tones and subtle bluish-green highlights, perfect for a focus-driven browsing experience.
 
 This guide provides instructions on how to manually install the Chrome theme extension locally in Chrome.
 
 ## Prerequisites
 
-- **Google Chrome** (or any Chromium-based browser)
-- **Git** (optional, for cloning the repository)
+-   **Google Chrome** (or any Chromium-based browser)
+-   **Git** (optional, for cloning the repository)
 
 ## Installation
 
@@ -31,11 +33,11 @@ git clone https://github.com/mrif449/chrome-theme.git
 1. Open Google Chrome.
 2. Go to the Extensions page by navigating to:
 
-   ```plaintext
-   chrome://extensions/
-   ```
+    ```plaintext
+    chrome://extensions/
+    ```
 
-   Or you can find it by clicking on the Chrome menu (three dots in the upper-right corner) → **More tools** → **Extensions**.
+    Or you can find it by clicking on the Chrome menu (three dots in the upper-right corner) → **More tools** → **Extensions**.
 
 ### 3. Enable Developer Mode
 
@@ -56,9 +58,9 @@ The theme should now be installed and visible in your Chrome extensions list. Yo
 
 If you encounter any issues, please ensure:
 
-- You are selecting the correct folder that contains the `manifest.json` file.
-- Developer mode is enabled.
-  
+-   You are selecting the correct folder that contains the `manifest.json` file.
+-   Developer mode is enabled.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

@@ -1,76 +1,121 @@
 {
     "manifest_version": 3,
-    "name": "Interstellar Blue",
-    "version": "2.6",
-    "description": "A comprehensive Chrome theme capturing the ethereal beauty of the aurora borealis against a starry night sky",
+    "name": "Obsidian Glow",
+    "version": "1.5",
+    "description": "A sleek and modern theme with deep tones and subtle bluish-green highlights, perfect for a focus-driven browsing experience.",
     "theme": {
         "colors": {
-            "frame": [10, 10, 10],
-            "frame_inactive": [15, 20, 40],
-            "frame_incognito": [30, 10, 45],
-            "frame_incognito_inactive": [40, 15, 60],
-            "toolbar": [22, 28, 50],
-            "toolbar_button_icon": [128, 224, 255],
-            "toolbar_text": [224, 242, 255],
-            "toolbar_field": [15, 20, 40],
-            "toolbar_field_text": [255, 255, 255],
-            "toolbar_field_border": [0, 255, 170],
-            "toolbar_field_focus": [20, 25, 50],
-            "toolbar_field_text_focus": [255, 255, 255],
-            "toolbar_field_border_focus": [0, 255, 170],
-            "toolbar_top_separator": [0, 31, 63],
-            "toolbar_bottom_separator": [0, 31, 63],
-            "tab_background_text": [199, 213, 232],
-            "tab_background_text_inactive": [150, 170, 200],
-            "tab_text": [224, 242, 255],
-            "tab_line": [0, 255, 170],
-            "tab_loading": [0, 255, 170],
-            "tab_selected": [30, 35, 60],
-            "tab_background_separator": [0, 31, 63],
-            "bookmark_text": [128, 224, 255],
-            "ntp_background": [10, 15, 35],
-            "ntp_text": [255, 255, 255],
-            "ntp_link": [0, 255, 170],
-            "ntp_header": [15, 20, 40],
-            "popup": [22, 28, 50],
-            "popup_text": [224, 242, 255],
-            "popup_border": [0, 31, 63],
-            "popup_highlight": [0, 255, 170, 51],
-            "popup_highlight_text": [255, 255, 255],
-            "sidebar": [15, 20, 40],
-            "sidebar_text": [224, 242, 255],
-            "sidebar_border": [0, 31, 63],
-            "omnibox_text": [255, 255, 255],
-            "omnibox_background": [15, 20, 40],
-            "omnibox_hover_text": [0, 255, 170],
-            "theme_frame": [10, 15, 35],
-            "theme_frame_inactive": [15, 20, 40],
-            "theme_frame_incognito": [30, 10, 45],
-            "theme_frame_incognito_inactive": [40, 15, 60],
-            "theme_toolbar": [22, 28, 50],
-            "theme_toolbar_button": [128, 224, 255],
-            "theme_toolbar_button_icon": [224, 242, 255],
-            "theme_ntp_background": [10, 15, 35],
-            "theme_ntp_attribution": [128, 224, 255],
-            "focus_outline": [0, 255, 170],
-            "focus_outline_contrast": [255, 255, 255]
+            "frame": [
+                4,
+                18,
+                25
+            ],
+            "frame_inactive": [
+                3,
+                12,
+                20
+            ],
+            "toolbar": [
+                8,
+                40,
+                55
+            ],
+            "toolbar_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text_inactive": [
+                160,
+                160,
+                160
+            ],
+            "bookmark_text": [
+                100,
+                140,
+                155
+            ],
+            "ntp_background": [
+                8,
+                40,
+                55
+            ],
+            "ntp_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_link": [
+                4,
+                40,
+                95
+            ],
+            "tab_background_separator": [
+                6,
+                35,
+                45
+            ],
+            "tab_selected": [
+                255,
+                255,
+                255
+            ],
+            "tab_background": [
+                160,
+                160,
+                160
+            ],
+            "toolbar_field": [
+                8,
+                40,
+                55
+            ],
+            "toolbar_field_text": [
+                255,
+                255,
+                255
+            ],
+            "toolbar_field_border": [
+                8,
+                55,
+                70
+            ],
+            "popup": [
+                8,
+                40,
+                55
+            ],
+            "popup_text": [
+                255,
+                255,
+                255
+            ],
+            "popup_border": [
+                4,
+                40,
+                95
+            ]
         },
         "tints": {
-            "buttons": [0.9, 0.5, 0.5],
-            "frame": [-1, -1, -1],
-            "frame_inactive": [-1, -1, 0.7],
-            "frame_incognito": [0.2, 0.5, 0.8],
-            "frame_incognito_inactive": [0.3, 0.5, 0.6]
+            "buttons": [
+                1,
+                1,
+                1
+            ]
         },
         "properties": {
             "ntp_background_alignment": "bottom",
-            "ntp_background_repeat": "no-repeat",
-            "ntp_logo_alternate": true,
-            "ntp_custom_background_type": "none",
-            "ntp_custom_background_allow_installation": false,
-            "ntp_custom_background_default_wallpaper_id": "",
-            "ntp_custom_theme_id": "",
-            "color_scheme": "dark"
+            "ntp_background_repeat": "no-repeat"
         }
     }
 }
